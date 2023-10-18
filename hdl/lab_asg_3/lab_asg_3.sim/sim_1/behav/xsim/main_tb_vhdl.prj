@@ -1,0 +1,7 @@
+# compile vhdl design source files
+vhdl2008 xil_defaultlib  \
+"../../../../lab_asg_3.srcs/sources_1/imports/asg_3/main.vhdl" \
+"../../../../lab_asg_3.srcs/sources_1/imports/asg_3/main_tb.vhdl" \
+
+# Do not sort compile order
+nosort
